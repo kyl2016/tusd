@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/tus/tusd"
+	"github.com/kyl2016/tusd"
 )
 
 var stdout = log.New(os.Stdout, "[tusd] ", log.Ldate|log.Ltime)

@@ -1,7 +1,7 @@
 package hooks
 
 import (
-	"github.com/tus/tusd"
+	"github.com/kyl2016/tusd"
 )
 
 type HookHandler interface {

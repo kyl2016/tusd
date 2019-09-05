@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"testing"
 
-	. "github.com/tus/tusd"
+	. "github.com/kyl2016/tusd"
 )
 
 func TestOptions(t *testing.T) {

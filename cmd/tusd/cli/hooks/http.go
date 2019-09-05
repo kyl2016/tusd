@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/tus/tusd"
+	"github.com/kyl2016/tusd"
 
 	"github.com/sethgrid/pester"
 )

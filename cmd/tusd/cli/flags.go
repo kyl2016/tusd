@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/tus/tusd/cmd/tusd/cli/hooks"
+	"github.com/kyl2016/tusd/cmd/tusd/cli/hooks"
 )
 
 var Flags struct {

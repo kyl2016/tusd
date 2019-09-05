@@ -80,8 +80,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/tus/tusd"
-	"github.com/tus/tusd/uid"
+	"github.com/kyl2016/tusd"
+	"github.com/kyl2016/tusd/uid"
 
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/awserr"
